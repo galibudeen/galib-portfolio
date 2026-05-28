@@ -155,10 +155,9 @@ function App() {
           </h2>
 
           <p className="text-gray-300 text-lg leading-relaxed">
-            Passionate technology professional with proven expertise in
-            web application development, IT infrastructure,
-            digital governance projects, and stakeholder-driven
-            technology solutions that create real-world impact.
+            Experienced IT professional specializing in digital transformation,
+            enterprise application support, modern web development,
+            and large-scale technology implementation across government and organizational ecosystems.
           </p>
 
         </motion.div>
@@ -300,6 +299,14 @@ function App() {
               {
                 title:"Billing Software for Optical Shop",
                 desc:"Inventory and billing system for managing stock, product sales and shortage tracking efficiently."
+              },
+              {
+                title:"Courier Service Management System",
+                desc:"Advanced courier operations platform featuring parcel receiving and shipment tracking, destination-based logistics management, admin/staff dashboards, user management, analytics reporting, and monthly revenue monitoring."
+              },
+              {
+                title:"Travel & Diving Course Management Platform",
+                desc:"Enterprise travel booking platform featuring destination package reservations, diving course enrollment, automated email notifications, staff coordination system, inquiry analytics, and an admin dashboard for managing packages, bookings, and operational workflows."
               }
 
             ].map((project,index)=>(
